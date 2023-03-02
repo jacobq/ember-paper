@@ -19,7 +19,7 @@
     "url": "https://github.com/miguelcobain/ember-paper/issues"
   },
   "dependencies": {
-    "@html-next/vertical-collection": "^2.1.0",
+    "@html-next/vertical-collection": "^4.0.2",
     "angular-material-styles": "1.1.21",
     "broccoli-file-creator": "^2.1.1",
     "broccoli-funnel": "^3.0.8",
@@ -30,7 +30,7 @@
     "ember-auto-import": "^1.12.1",
     "ember-basic-dropdown": "^4.0.4",
     "ember-cli-babel": "^7.26.6",
-    "ember-cli-htmlbars": "^5.7.1",
+    "ember-cli-htmlbars": "^6.2.0",
     "ember-cli-polyfill-importer": "^0.0.4",
     "ember-cli-sass": "^10.0.1",
     "ember-composability-tools": "^1.1.0",
